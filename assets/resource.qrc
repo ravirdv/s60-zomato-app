@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/appIcon.png</file>
+        <file>about/gx.jpg</file>
+        <file>about/ravi.png</file>
+        <file>icons/add.svg</file>
+        <file>icons/edit.svg</file>
+        <file>icons/ok.svg</file>
+    </qresource>
+</RCC>
